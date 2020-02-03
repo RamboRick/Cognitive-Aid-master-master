@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera.</string>
+    <string name="wait_for_camera">Wait for camera...</string>
+    <string name="wait_for_scan">wait for scan</string>
+</resources>

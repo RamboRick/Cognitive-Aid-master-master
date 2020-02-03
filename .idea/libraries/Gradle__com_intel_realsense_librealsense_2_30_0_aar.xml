@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.intel.realsense:librealsense:2.30.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72675a1b9a6b1567cecc296a4458ec5d/librealsense-2.30.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72675a1b9a6b1567cecc296a4458ec5d/librealsense-2.30.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
